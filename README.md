@@ -7,3 +7,5 @@
 Alteracao direto no github web!
 
 Alteraçao direto no vs code! 
+
+Alteraçao no vs code arquivo readme!
