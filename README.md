@@ -5,3 +5,5 @@
  Alteração remota ! Direto no GitHub! 
  
 Alteracao direto no github web!
+
+Alteraçao direto no vs code! 
